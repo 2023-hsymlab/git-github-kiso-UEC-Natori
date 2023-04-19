@@ -3,3 +3,6 @@ sample webpage on github
 
 Use Google Colaboratory: Simple StockData scraping from stooq.com - SoftBank 
 
+test natori
+
+
